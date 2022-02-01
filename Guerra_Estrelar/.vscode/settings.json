@@ -1,0 +1,34 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "jogo",
+        "nave",
+        "altura_tela",
+        "largura_tela",
+        "mover",
+        "self",
+        "tiro",
+        "inimigo",
+        "tempoInimigo",
+        "listaInimigo_",
+        "listaInimigo",
+        "removeInimigo",
+        "colisao",
+        "x",
+        "y",
+        "listaItem",
+        "cenaAtual",
+        "cena",
+        "telaInicial",
+        "gameOver",
+        "imagem",
+        "imagem_gameOver",
+        "fase",
+        "indexFase"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false
+}
